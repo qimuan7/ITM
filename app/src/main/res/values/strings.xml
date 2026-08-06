@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITM</string>
+    <string name="home">首頁</string>
+    <string name="library">媒體庫</string>
+    <string name="not_playing">未在播放</string>
+    <string name="settings">設定</string>
+    <string name="today_recommended">今日推薦</string>
+    <string name="guess_you_want_to_hear">猜你想聽</string>
+    <string name="songs_count">%1$d 首歌曲</string>
+    <string name="play">播放</string>
+    <string name="shuffle">隨機播放</string>
+    <string name="search">搜尋</string>
+    <string name="database">資料庫</string>
+    <string name="playlist">播放清單</string>
+    <string name="downloaded">已下載</string>
+    <string name="songs">歌曲</string>
+    <string name="artists">藝人</string>
+    <string name="albums">專輯</string>
+    <string name="unknown_artist">未知藝人</string>
+    <string name="unknown_album">未知專輯</string>
+    <string name="back">返回</string>
+    <string name="library_section">資源庫</string>
+    <string name="reselect_itunes_folder">重新選擇 iTunes 根目錄資料夾</string>
+    <string name="select_itunes_folder_desc">選擇包含 iTunes Music Library.xml 的 iTunes 資料夾</string>
+    <string name="refresh_recommendation_section">更換推薦</string>
+    <string name="refresh_recommendation">更換今日推薦</string>
+    <string name="refresh_recommendation_desc">點擊可隨機更換首頁「今日推薦」的 6 首歌曲</string>
+    <string name="appearance_section">外觀選擇</string>
+    <string name="appearance_theme">外觀主題</string>
+    <string name="theme_system">跟隨</string>
+    <string name="theme_light">明亮</string>
+    <string name="theme_dark">暗黑</string>
+</resources>
