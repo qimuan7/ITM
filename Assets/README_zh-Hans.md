@@ -83,7 +83,7 @@
 
 ### 先决条件:
 
-1. 你的电脑系统版本需要是 Windows 或 OSX-10.14 及以下, 确定在 iTunes **高级选项**中已开启 **"保持 iTunes Media 资料夹整理状态" , "复制加入的歌曲到 iTunes Media" , "与其他应用程式共享 iTunes 资料库 XML"**
+1. 你的电脑系统版本需要是 Windows 或 OSX-10.14 及以下 (10.15+ 可查看 Wiki), 确定在 iTunes **高级选项**中已开启 **"保持 iTunes Media 资料夹整理状态" , "复制加入的歌曲到 iTunes Media" , "与其他应用程式共享 iTunes 资料库 XML"**
 
 2. 安卓设备建议在 Android 10+ , 已测试版本 Android 14 (OneUI6.1) , 我不确定 FFmpeg 组件需要的系统版本, 请自行尝试
 
