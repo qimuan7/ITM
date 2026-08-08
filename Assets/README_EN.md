@@ -93,7 +93,7 @@ An Android local music player that uses iTunes libraries as its source. Restore 
 
 ### Prerequisites:
 
-1. Your computer system needs to be Windows or OSX-10.14 or earlier. Ensure that **"Keep iTunes Media folder organized", "Copy added songs to iTunes Media", and "Share iTunes Library XML with other applications" are enabled in iTunes **Advanced Settings**.
+1. Your computer system needs to be Windows or OSX-10.14 or earlier (10.15+ can read the wiki). Ensure that **"Keep iTunes Media folder organized", "Copy added songs to iTunes Media", and "Share iTunes Library XML with other applications" are enabled in iTunes **Advanced Settings**.
 
 2. Android devices are recommended to be Android 10+. Android 14 (OneUI 6.1) has been tested. I am unsure about the system version required for the FFmpeg component; please try it yourself.
 
