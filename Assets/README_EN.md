@@ -1,14 +1,22 @@
-<img src="https://github.com/qimuan7/ITM/blob/1/Assets/LocalGrid-ITM-ICON-Rounded.png" width="20%" alt="icon">
+<img src="https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/LocalGrid-ITM-ICON-Rounded.png" width="20%" alt="icon">
 
-# LocalGrid - ITM
+# LocalGrid - ITM for Phone (Legacy)
 
 An Android local music player that uses iTunes libraries as its source. Restore your downloaded playlists on any Android device and play them as you like.
 
-[readme: Simplified Chinese Translation](https://github.com/qimuan7/ITM/blob/1/Assets/README_zh-Hans.md)
+[readme: 简体中文翻译](https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/README_zh-Hans.md)
+
+[readme: EnglishTranslate](https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/README_EN.md)
 
 [ITM Wiki](https://github.com/qimuan7/ITM/wiki)
 
-[ITM for Tablet](https://github.com/qimuan7/ITM-Tablet)
+[ITM NewVer. Download](https://github.com/qimuan7/ITM) Release 3.2.1+
+
+> ITM-New-3.2 merged ITM-Phone and ITM-Tablet projects, so now the old-two projects stoped updateing.
+
+> ITM-Phone (Legacy): github.com/qimuan7/ITM/tree/phone-3.0 ; Release 3.0.13 ~ 3.0.20
+
+> ITM-Tablet (Legacy): github.com/qimuan7/ITM/tree/tablet-3.1 ; Release 3.1.12.FC ~ 3.1.20_11
 
 ---
 
@@ -72,11 +80,9 @@ An Android local music player that uses iTunes libraries as its source. Restore 
 
 <tr>
 
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3013-1.jpg" width="600" alt="ITM3013-1"></td>
-
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3013-2.jpg" width="600" <alt="ITM3013-2"></td>
-
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3018-1.jpg" width="300" alt="ITM3018-1"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/ITM3013-1.jpg" width="600" alt="ITM3013-1"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/ITM3013-2.jpg" width="600" alt="ITM3013-2"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/ITM3018-1.jpg" width="300" alt="ITM3018-1"></td>
 
 </tr>
 
