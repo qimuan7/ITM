@@ -1,14 +1,22 @@
-<img src="https://github.com/qimuan7/ITM/blob/1/Assets/LocalGrid-ITM-ICON-Rounded.png" width="20%" alt="icon">
+<img src="https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/LocalGrid-ITM-ICON-Rounded.png" width="20%" alt="icon">
 
-# LocalGrid - ITM
+# LocalGrid - ITM 手机版 (停更)
 
 使用 iTunes 资料库为来源的安卓本地音乐播放器, 在任何安卓设备上恢复你已下载的播放清单, 随心所欲的播放
 
-[readme: EnglishTranslate](https://github.com/qimuan7/ITM/blob/1/Assets/README_EN.md)
+[readme: 简体中文翻译](https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/README_zh-Hans.md)
+
+[readme: EnglishTranslate](https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/README_EN.md)
 
 [ITM Wiki](https://github.com/qimuan7/ITM/wiki)
 
-[ITM 平板端](https://github.com/qimuan7/ITM-Tablet)
+[ITM 新版下载](https://github.com/qimuan7/ITM) Release 3.2.1+
+
+> ITM-New-3.2 合併 ITM-Phone 和 ITM-Tablet, 並做了一些小更新, 所以就不再分开维护原來的两个不同版本了
+
+> ITM 手机端(停更): github.com/qimuan7/ITM/tree/phone-3.0 ; Release 3.0.13 ~ 3.0.20
+
+> ITM 平板端(停更): github.com/qimuan7/ITM/tree/tablet-3.1 ; Release 3.1.12.FC ~ 3.1.20_11
 
 ---
 
@@ -65,9 +73,9 @@
 <td align="center"><b>横屏更新(3.0.18+)</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3013-1.jpg" width="600" alt="ITM3013-1"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3013-2.jpg" width="600" alt="ITM3013-2"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3018-1.jpg" width="300" alt="ITM3018-1"></td>
+ <td align="center"><img src="https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/ITM3013-1.jpg" width="600" alt="ITM3013-1"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/ITM3013-2.jpg" width="600" alt="ITM3013-2"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/phone-3.0/Assets/ITM3018-1.jpg" width="300" alt="ITM3018-1"></td>
 </tr>
 </table>
 
