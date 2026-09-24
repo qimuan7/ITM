@@ -1,4 +1,4 @@
-<img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/LocalGrid-ITM-Tablet-ICON-Rounded.png" width="20%" alt="icon">
+<img src="(https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/LocalGrid-ITM-Tablet-ICON-Rounded.png)" width="20%" alt="icon">
 
 # LocalGrid - ITM Tablet
 
@@ -6,13 +6,17 @@
 
 使用 iTunes 資料庫爲來源的安卓本地音樂播放器, 專爲安卓平板設計的極簡界面, 方便的恢復你所有的 iTunes 離線播放清單, 隨心所欲的播放
 
-[readme: 简体中文翻译](https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/README_zh-Hans.md)
+[readme: 简体中文翻译](https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/README_zh-Hans.md)
 
-[readme: EnglishTranslate](https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/README_EN.md)
+[readme: EnglishTranslate](https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/README_EN.md)
 
 [ITM Wiki](https://github.com/qimuan7/ITM/wiki)
 
-[ITM 手機端](https://github.com/qimuan7/ITM)
+[ITM 3.2 New](https://github.com/qimuan7/ITM)
+
+> ITM-3.2 將原來的 ITM-Phone 和 ITM-Tablet 合併爲同一個項目, 保留兩種界面以便隨時切換
+
+[ITM 手機端 (舊版Readme)](https://github.com/qimuan7/ITM/tree/phone-3.0)
 
 ---
 
