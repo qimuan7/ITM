@@ -1,6 +1,6 @@
-<img src="(https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/LocalGrid-ITM-Tablet-ICON-Rounded.png)" width="20%" alt="icon">
+<img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/LocalGrid-ITM-Tablet-ICON-Rounded.png" width="20%" alt="icon">
 
-# LocalGrid - ITM Tablet
+# LocalGrid - ITM for Tablet (Legacy)
 
 ---
 
@@ -12,11 +12,13 @@
 
 [ITM Wiki](https://github.com/qimuan7/ITM/wiki)
 
-[ITM 3.2 New](https://github.com/qimuan7/ITM)
+[ITM 新版下載](https://github.com/qimuan7/ITM) Release 3.2.1+
 
-> ITM-3.2 將原來的 ITM-Phone 和 ITM-Tablet 合併爲同一個項目, 保留兩種界面以便隨時切換
+> ITM-New-3.2 合併 ITM-Phone 和 ITM-Tablet, 並做了一些小更新, 所以就不再分開維護原來的兩個不同版本了
 
-[ITM 手機端 (舊版Readme)](https://github.com/qimuan7/ITM/tree/phone-3.0)
+> ITM 手機端(舊版): github.com/qimuan7/ITM/tree/phone-3.0 ; Release 3.0.13 ~ 3.0.20
+
+> ITM 平板端(舊版): github.com/qimuan7/ITM/tree/tablet-3.1 ; Release 3.1.12.FC ~ 3.1.20_11
 
 ---
 
@@ -76,10 +78,10 @@
     <td align="center"><b>橫屏歌曲頁面</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-land1.png" width="300" alt="land-home"></td>
-    <td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-land2.png" width="300" alt="land-pylrc"></td>
-    <td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-land3.png" width="300" alt="land-pylisvo"></td>
-    <td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-land4.png" width="300" alt="land-music"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land1.png" width="300" alt="land-home"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land2.png" width="300" alt="land-pylrc"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land3.png" width="300" alt="land-pylisvo"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land4.png" width="300" alt="land-music"></td>
   </tr>
 </table>
 
@@ -91,10 +93,10 @@
     <td align="center"><b>豎屏歌曲頁面</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-vert1.png" width="400" alt="vert-home"></td>
-    <td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-vert2.png" width="400" alt="vert-player"></td>
-    <td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-vert3.png" width="400" alt="vert-pylisvo"></td>
-    <td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-vert4.png" width="400" alt="verrt-music"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert1.png" width="400" alt="vert-home"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert2.png" width="400" alt="vert-player"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert3.png" width="400" alt="vert-pylisvo"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert4.png" width="400" alt="verrt-music"></td>
   </tr>
 </table>
 
