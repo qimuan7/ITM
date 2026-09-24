@@ -1,6 +1,6 @@
-<img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/LocalGrid-ITM-Tablet-ICON-Rounded.png" width="20%" alt="icon">
+<img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/LocalGrid-ITM-Tablet-ICON-Rounded.png" width="20%" alt="icon">
 
-# LocalGrid - ITM Tablet
+# LocalGrid - ITM 平板端 (停更)
 
 ---
 
