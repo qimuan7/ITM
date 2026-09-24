@@ -1,16 +1,24 @@
-<img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/LocalGrid-ITM-Tablet-ICON-Rounded.png" width="20%" alt="icon">
+<img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/LocalGrid-ITM-Tablet-ICON-Rounded.png" width="20%" alt="icon">
 
-# LocalGrid - ITM Tablet
+# LocalGrid - ITM for Tablet (Legacy)
 
 ---
 
 An Android local music player sourced from the iTunes library, featuring a minimalist interface designed specifically for Android tablets. Easily restore all your iTunes offline playlists and play them as you please.
 
-[readme: Simplified Chinese Translation](https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/README_zh-Hans.md)
+[readme: 简体中文翻译](https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/README_zh-Hans.md)
+
+[readme: EnglishTranslate](https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/README_EN.md)
 
 [ITM Wiki](https://github.com/qimuan7/ITM/wiki)
 
-[ITM for Phone](https://github.com/qimuan7/ITM)
+[ITM NewVer. Download](https://github.com/qimuan7/ITM) Release 3.2.1+
+
+> ITM-New-3.2 merge ITM-Phone & ITM-Tablet and take some little changes, so now the old-two ver. stoped updating.
+
+> ITM Phone (Legacy): github.com/qimuan7/ITM/tree/phone-3.0 ; Release 3.0.13 ~ 3.0.20
+
+> ITM Tablet (Legacy): github.com/qimuan7/ITM/tree/tablet-3.1 ; Release 3.1.12.FC ~ 3.1.20_11
 
 ---
 ## Note:
@@ -67,10 +75,10 @@ An Android local music player sourced from the iTunes library, featuring a minim
 <td align="center"><b>Landscape song page</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-land1.png" width="300" alt="land-home"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-land2.png" width="300" alt="land-pylrc"></td>
-<td align="center"><img <img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-land3.png" width="300" alt="land-pylisvo"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-land4.png" width="300" alt="land-music"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land1.png" width="300" alt="land-home"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land2.png" width="300" alt="land-pylrc"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land3.png" width="300" alt="land-pylisvo"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land4.png" width="300" alt="land-music"></td>
 </tr>
 </table>
 
@@ -82,10 +90,10 @@ An Android local music player sourced from the iTunes library, featuring a minim
 <td align="center"><b>Portrait Song Page</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-vert1.png" width="400" alt="vert-home"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-vert2.png" width="400" alt="vert-player"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-vert3.png" width="400" alt="vert-pylisvo"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM-Tablet/blob/1/Assets/ITM-Tab-vert4.png" width="400" alt="verrt-music"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert1.png" width="400" alt="vert-home"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert2.png" width="400" alt="vert-player"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert3.png" width="400" alt="vert-pylisvo"></td>
+    <td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert4.png" width="400" alt="verrt-music"></td>
 </tr>
 </table>
 
