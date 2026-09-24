@@ -1,14 +1,22 @@
-<img src="https://github.com/qimuan7/ITM/blob/1/Assets/LocalGrid-ITM-ICON-Rounded.png" width="20%" alt="icon">
+<img src="https://github.com/qimuan7/ITM/blob/itm-3.2/Assets/LocalGrid-ITM-ICON-Rounded.png" width="20%" alt="icon">
 
 # LocalGrid - ITM
 
 使用 iTunes 资料库为来源的安卓本地音乐播放器, 在任何安卓设备上恢复你已下载的播放清单, 随心所欲的播放
 
-[readme: EnglishTranslate](https://github.com/qimuan7/ITM/blob/1/Assets/README_EN.md)
+[readme: 简体中文翻译](https://github.com/qimuan7/ITM/blob/itm-3.2/Assets/README_zh-Hans.md)
+
+[readme: EnglishTranslate](https://github.com/qimuan7/ITM/blob/itm-3.2/Assets/README_EN.md)
 
 [ITM Wiki](https://github.com/qimuan7/ITM/wiki)
 
-[ITM 平板端](https://github.com/qimuan7/ITM-Tablet)
+ITM 新版下载: Release 3.2.1+
+
+> ITM-New-3.2 合并 ITM-Phone 和 ITM-Tablet, 并做了一些小更新, 所以就不再分开维护原来的两个不同版本了
+
+> ITM 手机端(旧版): github.com/qimuan7/ITM/tree/phone-3.0 ; Release 3.0.13 ~ 3.0.20
+
+> ITM 平板端(旧版): github.com/qimuan7/ITM/tree/tablet-3.1 ; Release 3.1.12.FC ~ 3.1.20_11
 
 ---
 
@@ -16,9 +24,9 @@
 
 - ITM 在设计之初只能读取 iTunes 资源库作为音乐来源, 且需要可以开启"与其他应用共享 iTunes 资源库 XML"
 
-- ITM 无法扫描普通音频, 如果你想要类似UI的普通播放器, 我更推荐 FlamingoHere, Accord-Beta, 椒盐音乐, LuneMusic 或 Musicolet.
+- ITM 无法扫描普通音频, 如果你想要类似UI的普通播放器, 我更推荐 FlamingoHere, Accord-Beta, SaltPlayer, LuneMusic 或 Musicolet.
 
-- ITM 90% 的代码都由 Google AI 编写, 尽管经过测试, 如果你担心稳定性或者非常不喜欢 AI 写的内容, 请寻找其他项目, 我为此感到抱歉.
+- ITM 90% 的代码都由 Google AI 以及 Deepseek 辅助编写, 尽管经过测试, 如果你担心稳定性或者非常不喜欢 AI 写的内容, 请寻找其他项目, 我为此感到抱歉.
 
 ---
 
@@ -28,7 +36,7 @@
 
 - iTunes音乐资源库解析, 恢复xml中的播放清单
 
-- 自动音量平衡
+- 音量平衡, 可以开启或关闭, 并支援更多扫描选项
 
 - 音频内嵌歌词显示
 
@@ -38,11 +46,13 @@
 
 - 后台播放, 以及接入原生安卓快速设定播放组件
 
-- 横竖屏切换不重载 (3.0.18+)
+- 横竖屏切换不重载
 
 ### 界面 :
 
-- 简洁的界面和多语言 (3.0.20+ 目前只有 简/繁/英)
+- 允许切换手机或平板视图, 配合简洁的界面设计
+
+- 多语言 (3.0.20 和 3.1.20_11 有 简/繁/英, 新版本 3.2.1 已经移除多语言)
 
 - 本地的随机首页推荐卡片, 本地基于收听次数的推荐列表 (列表功能于3.0.19修复)
 
@@ -58,6 +68,8 @@
 
 ## 界面展示:
 
+### 手机视图展示:
+
 <table>
 <tr>
 <td align="center"><b>首页, 媒体页, 设定页</b></td>
@@ -65,25 +77,74 @@
 <td align="center"><b>横屏更新(3.0.18+)</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3013-1.jpg" width="600" alt="ITM3013-1"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3013-2.jpg" width="600" alt="ITM3013-2"></td>
-<td align="center"><img src="https://github.com/qimuan7/ITM/blob/1/Assets/ITM3018-1.jpg" width="300" alt="ITM3018-1"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/itm-3.2/Assets/ITM3013-1.jpg" width="600" alt="ITM3013-1"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/itm-3.2/Assets/ITM3013-2.jpg" width="600" alt="ITM3013-2"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/itm-3.2/Assets/ITM3018-1.jpg" width="300" alt="ITM3018-1"></td>
 </tr>
 </table>
 
+---
+
+### 平板视图展示:
+
+<table>
+<tr>
+<td align="center"><b>横屏首页</b></td>
+<td align="center"><b>横屏播放页+歌词</b></td>
+<td align="center"><b>横屏播放列表+音量条</b></td>
+<td align="center"><b>横屏歌曲页面</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land1.png" width="300" alt="land-home"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land2.png" width="300" alt="land-pylrc"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land3.png" width="300" alt="land-pylisvo"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-land4.png" width="300" alt="land-music"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center"><b>竖屏首页</b></td>
+<td align="center"><b>竖屏播放页</b></td>
+<td align="center"><b>竖屏播放列表+音量条</b></td>
+<td align="center"><b>竖屏歌曲页面</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert1.png" width="400" alt="vert-home"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert2.png" width="400" alt="vert-player"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert3.png" width="400" alt="vert-pylisvo"></td>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/tablet-3.1/Assets/ITM-Tab-vert4.png" width="400" alt="verrt-music"></td>
+</tr>
+</table>
+
+---
+
+### 新版更新内容:
+
+<table>
+<tr>
+<td align="center"><b>音量平衡加载, 音量平衡扫描选项, 平板视图切换(手机端无法正常用)</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://github.com/qimuan7/ITM/blob/itm-3.2/Assets/ITM3210-2.jpg" width="1000" alt="3210-2"></td>
+</tr>
+</table>
+
+---
+
 **- 图片所展示的歌曲均为个人创建的离线测试歌单, 其名称, 艺人, 专辑, 歌词, 封面等均属原作者, 不包含在项目中, 你需要汇入你自己的离线歌单方可收听**
 
-**- 该应用界面设计参考 Flamingo, Accord, 椒盐音乐, 和 AppleMusic, 但未使用其源码, 组件, 或其他任何内容**
+**- 该应用界面设计参考 Flamingo, Accord, SlatPlayer, 和 AppleMusic, 但未使用其源码, 组件, 或其他任何内容**
 
 ---
 
 ## 使用:
 
-> 详细内容可以前往 [Wiki](https://github.com/qimuan7/ITM/wiki) 查看, 其中包含 ITM 的使用, 也会有 iTunes 本地音乐库的建立方法参考
+> 详细内容可以前往 [Wiki](https://github.com/qimuan7/ITM/wiki) 查看, 其中包含 ITM 的使用, 构建, 也会有 iTunes 本地音乐库的建立方法参考
 
 ### 先决条件:
 
-1. 你的电脑系统版本需要是 Windows 或 OSX-10.14 及以下 (10.15+ 可查看 Wiki), 确定在 iTunes **高级选项**中已开启 **"保持 iTunes Media 资料夹整理状态" , "复制加入的歌曲到 iTunes Media" , "与其他应用程式共享 iTunes 资料库 XML"**
+1. 你的电脑系统版本需要是 Windows 或 OSX-10.14-及以下 (10.15+ 请查看 Wiki), 确定在 iTunes **进阶设定**中已开启 **"保持 iTunes Media 资料夹整理状态" , "复制加入的歌曲到 iTunes Media" , "与其他应用程式共享 iTunes 资料库 XML"**
 
 2. 安卓设备建议在 Android 10+ , 已测试版本 Android 14 (OneUI6.1) , 我不确定 FFmpeg 组件需要的系统版本, 请自行尝试
 
@@ -93,7 +154,7 @@
 
 1. 将你的电脑中的整个 iTunes 文件夹复制到安卓设备上, 存放位置只要你喜欢都可以
 
-2. 开启 ITM , 点击首页右上角头像标志, 点击后将会开启设定页面
+2. 开启 ITM , 点击首页右上角, 或侧栏上方的头像标志, 点击后将会开启设定页面
 
 3. 在设定页面选择最上方的 "重新选择 iTunes 根目录资料夹" 唤起文件选择器
 
@@ -103,8 +164,9 @@
 
 6. 载入完成后你可以正常使用
 
-7. **但是,** 此时直接操作你大概率会感到卡顿和发热, 这是因**音量平衡**和**歌词扫描**组件在后台运行, 建议停在首页等上几分钟 (我的400首歌大约用时4~5分钟), 如果有logcat也可以查看它的进度
-> (请放心只会在每个资料库首次载入时扫描, 平常只会读取Database和暂存来运行)
+7. 如果你想使用音量平衡, 请切换到"开启", 使用默认数值并按下确认, 稍等一会, 可以去喝杯奶茶
+
+8. 如果你想要切换不同的视图, 你可以在设定中找到, 手机视图主题色是红色, 平板视图是黑白, 只需要点一下即可切换, 但不要在手机上使用平板视图, 原因你试试就知道了...~
 
 ---
 
@@ -124,7 +186,7 @@
 
 - (竖屏界面) Flamingo Here: github.com/Yos-X/FlamingoHere
 
-- (播放横屏) 椒盐音乐: moriafly.com/program/salt-player.html
+- (播放横屏) Salt Player: moriafly.com/program/salt-player.html
 
 - (媒体库页) Accord-Beta: github.com/FoedusProgramme (作者似乎改名了并且原项目没有了)
 
@@ -158,31 +220,28 @@
 
 ---
 
-## 更多 (作者废话时间):
+## 更多 (作者废话时间+3):
 
 ### 原谅我每次写完readme都想在后面加一段个人想法之类的东西, 虽然没用, 但凑了个字数, 也能让我说说话 (?).
 
 ---
 
-关于 ITM 本身, 其实不会有太多更新, 除非哪天发现哪里出问题了, 并且克服不稳定的状态和懒癌, 或许就冒出来修一下. 功能上一切保持极简 (其实是啥也没有), 因为太复杂的话, 我烦躁起来说不定会想把手机炸了.
+脑子一热想把两个项目合并, 嗯好处是以后只需要更新一版, 坏消息是没有更多好消息. 或许还在密谋更多奇怪小应用?..
 
-不可否认我几乎完全不懂编程, 决定写这个东西也是一时兴起就做了, 这个想法的来源只是从前我很想要一个可以播放 iTunes 资料库的播放器 (然后就可以让我充电两小时, 听歌两分钟的 iPod Nano 4 退休了).
+我也在思考我写多一个键盘, 写多一个日记, 日历, 记账, 手机助理, 翻译, 这些真的会有人用么, 虽然像是废话, ITM 都不见得受众很广对吧.
 
-也该谢谢时代发展和 AI 进步, 从前有想法只能想想然后放弃, 现在只要保持思路清晰, 而且大概理解原理, 就尝试让 AI 做出来, 有点像数字版的 3D 打印机,
-
-下一步的话..想要做适配平板端 (因为我还有个平板, 但现在的界面放上去很丑), ITM 3.1-Tablet, 应该会用 3.0.19 或者 3.0.20 做基础? 目前 3.0 就只留给手机使用, 不过平板的效果可能不会太好, 因为我暂时想不出来该怎么设计交互和排布, 日常状态也比较差.
-
-> 请放心, 平板端会改包名为 lkg.itm.music.tablet, 你实在想在手机上装俩也是可以的.
-
-不过如果你不用 iTunes, 其实大可以去用其他播放器, 功能更完善, 界面更好看, 也不会有什么怪bug, 作者更新也会更快.
+不过我觉得我还是会耐不住性子写, 那就当完成心愿吧 ~. 你看, 想做什么就去做, 你也是 0w<.
 
 ---
 
-说起来, 我可能是这个时代为数不多还在用 iTunes + 离线乐库听歌的人? 至于为什么是 iTunes, 只是我喜欢它能把所有音乐塞一起, 还能自定排序和播放清单, 并且换电脑只要复制就行不用再排一次.
-> (但OSX10.15以后自带的音乐app真的很难用, 没有xml共享就算了, 隔一个系统大版本就新旧不兼容是什么超绝离谱兼容性 OAO)
+Hmm, 最近 Gemini 又不知道做什么说我所在地不可用, 然后连历史记录都不给我看... 有点烦, 不过 DS 是真的很强, 用 GeminiAgent 十份一的时间就改完我想要的内容, 还是只有对话框的前提下.
 
-离线给我的安全感始终高于线上, 无论什么平台, 如何承诺, 我焦虑起来就是会害怕, 害怕连一首歌都要失去, 虽然是个人选择, 不过我也要说, 为此耗费的精力是成倍增长的, 所以普通用户也不必追求完全的电子离线化, 我更希望没有人会像我一样陷在无意义的焦虑里.
+好吧也再次提醒我, 其实没有 AI 我什么都不是, 或许只是有一堆没用想法的小废物.
 
-就酱, 没啦, 感谢你看到这里, 无论你选择 ITM 与否, 愿你今日愉快ouo!.
+生活不太好, 学习不太好, 最近还在开学第四礼拜请了长假, 很身体难受, 但请多一天就焦虑一天, 不知道怎么办 (摆烂_(:_/&)_, 医院排号排到下月了, 或许他们比我更值得去.
+
+愿世界无灾吧, 虽然很空. 也希望我能开心, 不开心也可以, 但我想不再乱想...
+
+愿你今日开心ouo, 有时间要好好照顾自己.
 
 ---
